@@ -6,6 +6,8 @@ Es gibt zwei Jupyter-Notebooks:
    - Hier **verliert** derjenige, der die letzte Münze nimmt.
 3. multiCoinsLastWins.ipynb
    - Hier **gewinnt** derjenige, der die letzte Münze nimmt.
+  
+Es gibt noch eine APP (**coins_lastWIn_MAC.app**), geeignet für MacOS
 
 Die methodisch-didaktischen Anmerkungen findet man in der Datei ***NimDoku***
 

@@ -2,10 +2,12 @@
 Das Münz-Nim-Spiel (verstärkendes Lernen)
 
 Es gibt zwei Jupyter-Notebooks:
-1. sdasdsa
-2. dsds
+1. multiCoinsLastLoses.ipynb
+   - Hier **verliert** derjenige, der die letzte Münze nimmt.
+3. multiCoinsLastWins.ipynb
+   - Hier **gewinnt** derjenige, der die letzte Münze nimmt.
 
-Die methodisch-didaktischen Anmerkungen findet man in der Datei ***mmm***
+Die methodisch-didaktischen Anmerkungen findet man in der Datei ***NimDoku***
 
 # Das Münz-Spiel
 - **Ein sehr einfaches Beispiel für verstärkendes Lernen**
